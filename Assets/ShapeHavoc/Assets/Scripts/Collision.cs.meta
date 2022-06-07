@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1f2b6c80e3a6e9a4eb3b5e42b037c025
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyedParticle1: {fileID: 5763812642023292253, guid: c44c6c9bce564e548b3d5d777bb1e3ea,
+      type: 3}
+  - destroyedParticle2: {fileID: 1842799901824137342, guid: ab4227a835535084291459707db31a1c,
+      type: 3}
+  - destroyedParticle3: {fileID: 5240327876373220870, guid: e6853821feff0744399f289f7c172d20,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
